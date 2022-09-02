@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dwiatmokop@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GL38oKIPwWpx1dF_5XxFo6s5z98ofJ4c/view?usp=sharing](https://drive.google.com/file/d/1GL38oKIPwWpx1dF_5XxFo6s5z98ofJ4c/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1GL38oKIPwWpx1dF_5XxFo6s5z98ofJ4c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
