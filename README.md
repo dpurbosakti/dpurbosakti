@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GO's frameworks**
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dpurbosakti?tab=repositories).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/dpurbosakti?tab=repositories).
 
 - 📫 How to reach me **dwiatmokop@gmail.com**
 
