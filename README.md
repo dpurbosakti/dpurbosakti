@@ -24,7 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpurbosakti&show_icons=true&locale=en" alt="dpurbosakti" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpurbosakti&show_icons=true&locale=en&layout=compact" alt="dpurbosakti" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpurbosakti&" alt="dpurbosakti" /></p>
 
