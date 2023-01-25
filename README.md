@@ -40,6 +40,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpurbosakti&theme=algolia&" alt="dpurbosakti" /></p>
 </div>
 
-
-<p align="right"> <a href="https://twitter.com/dpurbosakti" target="blank"><img src="https://img.shields.io/twitter/follow/dpurbosakti?logo=twitter&style=for-the-badge" alt="dpurbosakti" /></a> </p>
-
