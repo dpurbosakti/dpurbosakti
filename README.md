@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpurbosakti&label=Profile%20views&color=0e75b6&style=flat" alt="dpurbosakti" /> </p>
 
-- 🌱 I’m currently learning **GO's frameworks**
+- 🌱 I’m currently learning **Dart**
 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/dpurbosakti?tab=repositories).
 
