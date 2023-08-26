@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dwiatmokop@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1t0jDzLoKN0tLpREtiSiSpMRSCViO027F/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1CunBF6QhUsUONzhiRTM33Wj1xMjNBG_2/view)
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
