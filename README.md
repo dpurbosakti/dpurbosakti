@@ -27,7 +27,7 @@
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,discord,docker,git,github,go,mysql,postgres,py,stackoverflow,vscode,dart" />
+    <img src="https://skillicons.dev/icons?i=aws,discord,docker,git,github,go,mysql,postgres,py,stackoverflow,vscode,dart,html,css,js" />
   </a>
 </p>
 
